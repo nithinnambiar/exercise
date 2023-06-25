@@ -1,4 +1,4 @@
-package com.sample.Exercise;
+package org.example;
 
 public class SingleLinkedList<E> {
 

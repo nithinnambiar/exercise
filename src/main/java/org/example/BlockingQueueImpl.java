@@ -1,4 +1,4 @@
-package com.sample.Exercise;
+package org.example;
 
 /**
  * Created by nithin on 25/04/17.
